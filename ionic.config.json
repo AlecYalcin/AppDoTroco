@@ -1,0 +1,7 @@
+{
+  "name": "AppDoTroco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
